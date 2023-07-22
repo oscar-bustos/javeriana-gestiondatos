@@ -7,3 +7,12 @@ Archivo Currencies.json
 | Country code (Alpha-3)    | str          | Código de país (Alpha-3)                              |
 | Currency                  | str          | Nombre de la moneda                                   |
 | Currency code             | str          | Código de la moneda                                   |
+
+Archivo Countries.csv
+
+| Nombre de Columna | Tipo de Dato | Descripción                  |
+|-------------------|--------------|------------------------------|
+| country           | Cadena       | Código del país.             |
+| latitude          | Decimal      | Latitud geográfica.          |
+| longitude         | Decimal      | Longitud geográfica.         |
+| name              | Cadena       | Nombre del país o territorio.|
